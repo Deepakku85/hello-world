@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
 <body>
 
-<! This webpage is devlpoed by SalDeepeha!!>
+<h2>saldeepaha</h2>
 
+<h3>Raamjaane </h3> 
+<p>HTML links are defined with the a tag:</p>
+
+<a href="https://www.saldeepeha.com">This is a link</a>
+ <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">  
 </body>
 </html>
